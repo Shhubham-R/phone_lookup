@@ -1,0 +1,8 @@
+# Core dependencies
+openpyxl>=3.1.0
+
+# Optional production dependencies (future scaling)
+# psycopg2-binary>=2.9.0  # For future PostgreSQL repository
+# redis>=5.0.0            # For future caching layer
+# fastapi>=0.100.0        # For future REST API service
+# uvicorn>=0.23.0         # For future ASGI server
